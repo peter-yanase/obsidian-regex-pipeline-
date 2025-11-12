@@ -1,14 +1,14 @@
 {
-  "name": "obsidian-sample-plugin",
-  "version": "1.4.0",
-  "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+  "name": "obsidian-regex-pipeline",
+  "version": "1.4.1",
+  "description": "Allows users setup custom regex rules to automatically format notes.",
   "main": "main.js",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
     "build": "rollup --config rollup.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Peter Yanase (original: No3371)",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.1.0",
